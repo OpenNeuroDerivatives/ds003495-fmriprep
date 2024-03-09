@@ -1,0 +1,7 @@
+{
+  "RawSources": [
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003495-fmriprep/sourcedata/raw/sub-02/ses-post/anat/sub-02_ses-post_T1w.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003495-fmriprep/sourcedata/raw/sub-02/ses-pre/anat/sub-02_ses-pre_T1w.nii.gz"
+  ],
+  "Type": "ROI"
+}
